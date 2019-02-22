@@ -1,0 +1,19 @@
+[[source]]
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+ipython = "*"
+pylint = "*"
+pandas = "*"
+
+[packages]
+requests = "~=2.21"
+scrapy = "~=1.6"
+scrapy-fake-useragent = "~=1.1"
+scrapy-proxies = "~=0.4"
+
+[requires]
+python_version = "3.6"
