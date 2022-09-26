@@ -11,7 +11,7 @@ pandas = "*"
 
 [packages]
 requests = "~=2.21"
-scrapy = "~=1.6"
+scrapy = "~=2.6"
 scrapy-fake-useragent = "~=1.1"
 scrapy-proxies = "~=0.4"
 
